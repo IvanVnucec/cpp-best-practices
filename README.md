@@ -1,4 +1,4 @@
-# C/C++ Coding Standards and Best Practices
+# C/C++ Best Practices
 
 ## About
 This repo contains C/C++ tools, coding standards and best practices with which I've encountered over the years.
