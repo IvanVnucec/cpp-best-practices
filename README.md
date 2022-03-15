@@ -28,6 +28,8 @@ This repo contains C/C++ tools, coding standards and best practices with which I
 * [Valgrind](https://valgrind.org/docs/manual/quick-start.html)
     - Number of debugging and profiling tools
     - Detects memory-related errors common in C/C++
+* [Google Benchmark](https://github.com/google/benchmark)
+    -  Benchmark C/C++ code snippets similar to unit tests
 * [Ditto](https://ditto-cp.sourceforge.io/)
     - Windows Clipboard manager
     - Helps with copy-paste-ing code
