@@ -41,6 +41,8 @@ This repo contains C/C++ tools, coding standards and best practices with which I
     - Run code trough the different compilers
 
 ### Knowledge base
+* [cppreference](https://en.cppreference.com/)
+    - C++ reference web page
 * [Interrupt blog](https://interrupt.memfault.com/blog/)
     - Blog about embedded C/C++ programming
 * [Feabhas blog](https://blog.feabhas.com/)
@@ -53,9 +55,8 @@ This repo contains C/C++ tools, coding standards and best practices with which I
     - Discussion of well-known classes of data structures: Priority Queues, Dictionary Structures and Multidimensional structures. 
     - Mechanisms and tools that were developed to facilitate the use of data structures in real programs. 
     - Examination of the applications of data structures
-* [Hacking Cpp](https://hackingcpp.com/index.html)
-    - Collection of various C++ learning resources
-    - Aimed at beginners that know the basics of imperative programming but don't know C++ very well
+* [C++ Tools Ecosystem](https://hackingcpp.com/cpp/tools/ecosystem.html)
+    - Collection of various C++ tools
 
 ### Best practices
 * [C/C++ Google Style Guides](https://google.github.io/styleguide/cppguide.html)
