@@ -7,6 +7,10 @@ This repo contains list of C++ tools, coding standards and best practices with w
 ### Tools
 * [cpplint](https://github.com/google/styleguide/tree/gh-pages/cpplint)
     - An automated checker to make sure a C++ file follows [Google's C++ style guide](https://github.com/google/styleguide)
+* [clang-tidy](https://clang.llvm.org/extra/clang-tidy/)
+    - Clang-based C++ “linter” tool. 
+    - extensible framework for diagnosing and fixing typical programming errors, like style violations, interface misuse, or bugs that can be deduced via static analysis. 
+    - provides a convenient interface for writing new checks.
 * [ninja](https://ninja-build.org/)
     - Small build system with a focus on speed
     - Supports [CMake's](https://cmake.org/) Ninja backend
