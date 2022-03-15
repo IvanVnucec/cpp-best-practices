@@ -10,6 +10,10 @@ This repo contains list of C++ tools, coding standards and best practices with w
 * [ninja](https://ninja-build.org/)
     - Small build system with a focus on speed
     - Supports [CMake's](https://cmake.org/) Ninja backend
+* [CMake](https://cmake.org/)
+    - Cross-platform family of tools designed to build, test and package software
+* [CMake C++ Project template](https://github.com/kigster/cmake-project-template)
+    - Minimal CMake C/C++ project that can build libraries, binaries and have a working unit test suite.
 * [Cppcheck](https://cppcheck.sourceforge.io/)
     - Static analysis
     - [Misra rule](https://www.perforce.com/resources/qac/misra-c-cpp) texts
