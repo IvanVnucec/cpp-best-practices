@@ -57,8 +57,6 @@ This repo contains C++ tools, coding standards and best practices with which I'v
     - Examination of the applications of data structures
 * [C++ Tools Ecosystem](https://hackingcpp.com/cpp/tools/ecosystem.html)
     - Collection of various C++ tools
-
-### Best practices
 * [C/C++ Google Style Guides](https://google.github.io/styleguide/cppguide.html)
     - Most open-source projects developed by Google conform to the requirements in this guide.
 * [cppbestpractices](https://lefticus.gitbooks.io/cpp-best-practices/content/)
