@@ -47,6 +47,7 @@ This repo contains list of C++ tools, coding standards and best practices with w
     - Lets you type code in one window and see the results of its compilation in another window
 * [Wandbox](https://wandbox.org/)
     - Run code trough the different compilers
+* [C++ Library project with CMake](https://github.com/retifrav/cmake-library-example)
 
 ### Knowledge base
 * [cppreference](https://en.cppreference.com/)
@@ -55,6 +56,8 @@ This repo contains list of C++ tools, coding standards and best practices with w
     - Blog about embedded C/C++ programming
 * [Feabhas blog](https://blog.feabhas.com/)
     - Blog about developing software for real-time and embedded systems
+* [Declaration of VAR](https://decovar.dev/)
+    - Quality blog about software development in general
 * [Learn C++](https://www.learncpp.com/)
     - Website devoted to teaching you how to program in C++
 * [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
