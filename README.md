@@ -48,6 +48,8 @@ This repo contains list of C++ tools, coding standards and best practices with w
 * [Wandbox](https://wandbox.org/)
     - Run code trough the different compilers
 * [C++ Library project with CMake](https://github.com/retifrav/cmake-library-example)
+* [Conan](https://conan.io/)
+    - The open source, decentralized and multi-platform package manager to create and share all your native binaries.
 
 ### Knowledge base
 * [cppreference](https://en.cppreference.com/)
@@ -75,3 +77,5 @@ This repo contains list of C++ tools, coding standards and best practices with w
 * [C++ (and Rust, embedded, ...) Talks List](https://wovo.github.io/ctl/)
     - A list of talks about C++, Rust, embedded and related subjects compiled from youtube playlists
     - WARNING: Contains a lot of talks
+* [CMake Inheritance explained](https://kubasejdak.com/modern-cmake-is-like-inheritance)
+    - Blog post where author explains how CMake inheritance works and how to use it.
