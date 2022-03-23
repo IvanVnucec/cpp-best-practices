@@ -82,3 +82,5 @@ This repo contains list of C++ tools, coding standards and best practices with w
     - Blog post where author explains how CMake inheritance works and how to use it.
 * [Introduction to Conan package manager](https://kubasejdak.com/introduction-to-conan-package-manager)
     - Blog creates Demo project where it includes several libraries liked with the Conan package manager. Demo project is then built with CMake.
+* [Application bootstrap layer for various C/C++ platforms](https://github.com/kubasejdak/platform)
+    -  It's main goal is to provide compiler configuration for target platform, and abstraction of launching main application thread on target platform.
