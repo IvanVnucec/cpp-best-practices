@@ -84,3 +84,6 @@ This repo contains list of C++ tools, coding standards and best practices with w
     - Blog creates Demo project where it includes several libraries liked with the Conan package manager. Demo project is then built with CMake.
 * [Application bootstrap layer for various C/C++ platforms](https://github.com/kubasejdak/platform)
     -  It's main goal is to provide compiler configuration for target platform, and abstraction of launching main application thread on target platform.
+* [CppCon 2018: Mateusz Pusz “Git, CMake, Conan - How to ship and reuse our C++ projects”](https://www.youtube.com/watch?v=S4QSKLXdTtA)
+    - Provides great detail about how to use modern CMake to properly setup projects and also it teaches us how to use modern package manager called Conan.
+ 
